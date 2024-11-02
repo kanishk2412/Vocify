@@ -1,6 +1,11 @@
 
  Welcome to Vocify – a custom-built GPT designed to enhance your vocabulary learning experience! This tool is crafted to make vocabulary learning simple, clear, and effective by providing structured definitions, real-world examples, and easy-to-remember synonyms and antonyms for each word you want to explore.
 
+Link to GPT :- https://chatgpt.com/g/g-xPG0ccO7v-vocify
+
+(https://github.com/user-attachments/assets/eee5ca6d-d1e0-46f2-93fa-56bf09b5c856)
+
+
 🌟 Key Features
 Quick Definitions: Get concise and easy-to-understand definitions for a wide range of words.
 Real-World Examples: See how words are used in various contexts – from everyday conversations to specific fields like cooking, technology, and art.
